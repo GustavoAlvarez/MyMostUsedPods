@@ -19,6 +19,14 @@ Replaces the default iOS volume HUD
 
 * [Github](https://github.com/EMUR/eVolumeBar)
 
+
+### Kingfisher
+
+Pure-Swift library for downloading and caching images from the web
+
+* [Github](https://github.com/onevcat/Kingfisher)
+
+
 ### SwiftyJSON
 
 Deal with JSON data
@@ -41,6 +49,7 @@ target 'Your_Project' do
   use_frameworks!
   pod 'Alamofire'
   pod 'DefaultsKit'
+  pod 'Kingfisher'
   pod 'SwiftyJSON'
   pod 'SwifterSwift'
 end
