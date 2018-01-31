@@ -10,37 +10,25 @@
 
 HTTP networking library
 
-### DefaultsKit
+### [DefaultsKit](https://github.com/nmdias/DefaultsKit)
 
 Simple, Strongly Typed UserDefaults
 
-* [Github](https://github.com/nmdias/DefaultsKit)
+### [eVolumeBar](https://github.com/EMUR/eVolumeBar)
 
-### eVolumeBar
+Replaces the default iOS volume HUB
 
-Replaces the default iOS volume HUD
-
-* [Github](https://github.com/EMUR/eVolumeBar)
-
-
-### Kingfisher
+### [Kingfisher](https://github.com/onevcat/Kingfisher)
 
 Pure-Swift library for downloading and caching images from the web
 
-* [Github](https://github.com/onevcat/Kingfisher)
-
-
-### SwiftyJSON
+### [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 
 Deal with JSON data
 
-* [Github](https://github.com/SwiftyJSON/SwiftyJSON)
-
-### SwifterSwift
+### [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
 
 Collection of over 500 native Swift extensions
-
-* [Github](https://github.com/SwifterSwift/SwifterSwift)
 
 ##
 
