@@ -2,9 +2,7 @@
 
 ## Resources
 
-### Icons
-
-### * [icons8](https://icons8.com)
+### [Icons8](https://icons8.com)
 
 ## Libraries
 
