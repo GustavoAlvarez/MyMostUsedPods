@@ -4,7 +4,7 @@
 
 ### Icons
 
-###* [icons8](https://icons8.com)
+### * [icons8](https://icons8.com)
 
 ## Libraries
 
