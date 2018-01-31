@@ -6,11 +6,9 @@
 
 ## Libraries
 
-### Alamofire
+### [Alamofire](https://github.com/Alamofire/Alamofire)
 
 HTTP networking library
-
-* [Github](https://github.com/Alamofire/Alamofire)
 
 ### DefaultsKit
 
