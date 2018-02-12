@@ -18,6 +18,10 @@ Simple, Strongly Typed UserDefaults
 
 Replaces the default iOS volume HUB
 
+### [JsonSerializerSwift](https://github.com/peheje/JsonSerializerSwift)
+
+A simple Json Serializer for Swift
+
 ### [Kingfisher](https://github.com/onevcat/Kingfisher)
 
 Pure-Swift library for downloading and caching images from the web
