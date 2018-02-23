@@ -46,18 +46,15 @@ target 'Your_Project' do
   pod 'SwiftyJSON'
   pod 'SwifterSwift'
 end
-
 ```
 
 ### To install a single pod without updating existing ones:
 ```
 pod install --no-repo-update
-
 ```
 
 ### To remove/update a specific pod use:
 ```
 pod update POD_NAME
-
 ```
 
