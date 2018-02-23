@@ -37,8 +37,6 @@ Collection of over 500 native Swift extensions
 ##
 
 ### Pod file should looks like:
-
-
 ```
 target 'Your_Project' do
   use_frameworks!
@@ -50,3 +48,16 @@ target 'Your_Project' do
 end
 
 ```
+
+### To install a single pod without updating existing ones:
+```
+pod install --no-repo-update
+
+```
+
+### To remove/update a specific pod use:
+```
+pod update POD_NAME
+
+```
+
