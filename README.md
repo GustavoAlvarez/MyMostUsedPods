@@ -34,6 +34,10 @@ Deal with JSON data
 
 Collection of over 500 native Swift extensions
 
+### [UIColor+Hex](https://github.com/yeahdongcn/UIColor-Hex-Swift)
+
+Convenience method for creating autoreleased color using RGBA hex string.
+
 ##
 
 ### Pod file should looks like:
